@@ -1,6 +1,6 @@
 <h1>World Of Kathantra </h1>
 
-Game Link:https://eriol-earthart.itch.io/world-of-kathanra
+Game Link: https://eriol-earthart.itch.io/world-of-kathanra
 
 
 Welcome to Kathantra, an immersive text-based adventure where every decision you make weaves the fabric of your fate. Your journey begins when you encounter a mysterious, silver-haired girl who transports you to an unfamiliar land—a parallel universe full of secrets and danger. You awaken to find yourself inhabiting the body of a legendary character, trapped in a world on the brink of collapse. An unstable timeline has been fractured by the dark archer, a vengeful figure determined to erase history and reshape reality. Will you have the courage and wit to mend the timeline, or will you succumb to the perils that lurk within this shattered world? The future rests in your hands.
